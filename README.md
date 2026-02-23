@@ -1,9 +1,9 @@
 # Beecrowd Java: Estrutura Sequencial 🚀
 
-Este repositório contém as minhas resoluções para os desafios de programação da plataforma **Beecrowd** (antigo URI Online Judge), desenvolvidas durante o meu aprendizado da linguagem **Java**.
+Este repositório contém as minhas resoluções para os desafios de programação da plataforma Beecrowd, desenvolvidas durante o meu aprendizado da linguagem Java.
 
 ## 🎯 Objetivo
-O foco deste módulo foi consolidar os fundamentos da **Lógica de Programação**, explorando:
+O foco deste módulo foi consolidar os fundamentos da Lógica de Programação, explorando:
 - Entrada e saída de dados (Scanner, printf).
 - Operadores aritméticos e expressões matemáticas.
 - Processamento de dados e manipulação de variáveis.
@@ -19,10 +19,7 @@ Abaixo estão listados os problemas desenvolvidos nesta etapa (Módulo: Estrutur
 
 - **Início:** [1000 - Hello World!](https://www.beecrowd.com.br/repository/problems/view/1000.html)
 - **Cálculos de Áreas:** 1012
-- **Cálculos de Tempo:** 1061 (Duração de um evento)
 - **Cálculos Financeiros:** 1018 e 1021 (Notas e Moedas)
+- **Cálculos de Tempo:** 1061 (Duração de um evento)
 - **Fórmulas Matemáticas:** Maior de 3 números, Raiz Quadrada e Potenciação.
-- *E muitos outros conforme visível na lista de submissões.*
 
----
-**Dica de Uso:** Cada ficheiro `.java` corresponde a uma solução aprovada na plataforma.
