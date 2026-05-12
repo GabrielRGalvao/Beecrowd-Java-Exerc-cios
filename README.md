@@ -23,6 +23,6 @@ O projeto está dividido por módulos de conhecimento:
 * `/Estruturas_Repetitivas`: Otimização de processos com `for`, `while` e `do-while`.
 * `/Vetores`: Armazenamento e manipulação de conjuntos de dados em memória.
 * `/Matrizes`: Processamento de tabelas e dados multidimensionais.
-
+* /POO: Introdução à Programação Orientada a Objetos, focando em conceitos de classes, atributos, métodos e instanciacão de objetos.
 ---
 *Este repositório serve como base para o meu próximo passo: o desenvolvimento de aplicações com **Spring Boot**.*
